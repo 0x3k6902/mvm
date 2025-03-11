@@ -1,5 +1,5 @@
 local T = {
-Down = true
+Down = false
 }
 
 if T.Down == true then game.Players.LocalPlayer:Kick("Script is down currently :(") end
